@@ -1,0 +1,15 @@
+{
+  "name": "iam",
+  "version": "1.0.0",
+  "description": "AWS Identity and Access Management Tasks ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "AWS",
+    "IAM"
+  ],
+  "author": "John Ruffin",
+  "license": "ISC"
+}
